@@ -3,3 +3,6 @@ agent-browser/
 
 node_modules/
 *.log
+
+# Playwright MCP auto-dumps
+.playwright-mcp/
