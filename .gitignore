@@ -1,0 +1,5 @@
+# Upstream Vercel repo cloned for reference only; not part of this eval
+agent-browser/
+
+node_modules/
+*.log

@@ -1,0 +1,8 @@
+--- call 0 (125c 625ms) ---
+Successfully navigated to https://quotes.toscrape.com/tag/love/.
+## Pages
+1: https://quotes.toscrape.com/tag/love/ [selected]
+
+--- call 1 (122c 180ms) ---
+Took a screenshot of the full current page.
+Saved screenshot to C:\Users\Admin\agent-browser-eval\results\devtools\t5.png.
