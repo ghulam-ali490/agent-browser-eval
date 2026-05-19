@@ -1,0 +1,170 @@
+✓ Quotes to Scrape
+  https://quotes.toscrape.com/
+- heading "Quotes to Scrape" [level=1, ref=e1]
+  - link "Quotes to Scrape" [ref=e33]
+- paragraph
+  - link "Logout" [ref=e34]
+- generic
+  - StaticText "“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”"
+  - StaticText "by "
+  - StaticText "Albert Einstein"
+  - StaticText " "
+  - link "(about)" [ref=e2]
+  - StaticText " - "
+  - link "(Goodreads page)" [ref=e3]
+  - generic
+    - StaticText "Tags: "
+    - link "change" [ref=e35]
+    - StaticText " "
+    - link "deep-thoughts" [ref=e36]
+    - StaticText " "
+    - link "thinking" [ref=e37]
+    - StaticText " "
+    - link "world" [ref=e38]
+  - StaticText "“It is our choices, Harry, that show what we truly are, far more than our abilities.”"
+  - StaticText "by "
+  - StaticText "J.K. Rowling"
+  - StaticText " "
+  - link "(about)" [ref=e4]
+  - StaticText " - "
+  - link "(Goodreads page)" [ref=e5]
+  - generic
+    - StaticText "Tags: "
+    - link "abilities" [ref=e39]
+    - StaticText " "
+    - link "choices" [ref=e40]
+  - StaticText "“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”"
+  - StaticText "by "
+  - StaticText "Albert Einstein"
+  - StaticText " "
+  - link "(about)" [ref=e6]
+  - StaticText " - "
+  - link "(Goodreads page)" [ref=e7]
+  - generic
+    - StaticText "Tags: "
+    - link "inspirational" [ref=e41]
+    - StaticText " "
+    - link "life" [ref=e42]
+    - StaticText " "
+    - link "live" [ref=e43]
+    - StaticText " "
+    - link "miracle" [ref=e44]
+    - StaticText " "
+    - link "miracles" [ref=e45]
+  - StaticText "“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”"
+  - StaticText "by "
+  - StaticText "Jane Austen"
+  - StaticText " "
+  - link "(about)" [ref=e8]
+  - StaticText " - "
+  - link "(Goodreads page)" [ref=e9]
+  - generic
+    - StaticText "Tags: "
+    - link "aliteracy" [ref=e46]
+    - StaticText " "
+    - link "books" [ref=e47]
+    - StaticText " "
+    - link "classic" [ref=e48]
+    - StaticText " "
+    - link "humor" [ref=e49]
+  - StaticText "“Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”"
+  - StaticText "by "
+  - StaticText "Marilyn Monroe"
+  - StaticText " "
+  - link "(about)" [ref=e10]
+  - StaticText " - "
+  - link "(Goodreads page)" [ref=e11]
+  - generic
+    - StaticText "Tags: "
+    - link "be-yourself" [ref=e50]
+    - StaticText " "
+    - link "inspirational" [ref=e51]
+  - StaticText "“Try not to become a man of success. Rather become a man of value.”"
+  - StaticText "by "
+  - StaticText "Albert Einstein"
+  - StaticText " "
+  - link "(about)" [ref=e12]
+  - StaticText " - "
+  - link "(Goodreads page)" [ref=e13]
+  - generic
+    - StaticText "Tags: "
+    - link "adulthood" [ref=e52]
+    - StaticText " "
+    - link "success" [ref=e53]
+    - StaticText " "
+    - link "value" [ref=e54]
+  - StaticText "“It is better to be hated for what you are than to be loved for what you are not.”"
+  - StaticText "by "
+  - StaticText "André Gide"
+  - StaticText " "
+  - link "(about)" [ref=e14]
+  - StaticText " - "
+  - link "(Goodreads page)" [ref=e15]
+  - generic
+    - StaticText "Tags: "
+    - link "life" [ref=e55]
+    - StaticText " "
+    - link "love" [ref=e56]
+  - StaticText "“I have not failed. I've just found 10,000 ways that won't work.”"
+  - StaticText "by "
+  - StaticText "Thomas A. Edison"
+  - StaticText " "
+  - link "(about)" [ref=e16]
+  - StaticText " - "
+  - link "(Goodreads page)" [ref=e17]
+  - generic
+    - StaticText "Tags: "
+    - link "edison" [ref=e57]
+    - StaticText " "
+    - link "failure" [ref=e58]
+    - StaticText " "
+    - link "inspirational" [ref=e59]
+    - StaticText " "
+    - link "paraphrased" [ref=e60]
+  - StaticText "“A woman is like a tea bag; you never know how strong it is until it's in hot water.”"
+  - StaticText "by "
+  - StaticText "Eleanor Roosevelt"
+  - StaticText " "
+  - link "(about)" [ref=e18]
+  - StaticText " - "
+  - link "(Goodreads page)" [ref=e19]
+  - generic
+    - StaticText "Tags: "
+    - link "misattributed-eleanor-roosevelt" [ref=e61]
+  - StaticText "“A day without sunshine is like, you know, night.”"
+  - StaticText "by "
+  - StaticText "Steve Martin"
+  - StaticText " "
+  - link "(about)" [ref=e20]
+  - StaticText " - "
+  - link "(Goodreads page)" [ref=e21]
+  - generic
+    - StaticText "Tags: "
+    - link "humor" [ref=e62]
+    - StaticText " "
+    - link "obvious" [ref=e63]
+    - StaticText " "
+    - link "simile" [ref=e64]
+  - navigation
+    - list
+      - listitem [level=1]
+        - link "Next " [ref=e67]
+- generic
+  - heading "Top Ten tags" [level=2, ref=e22]
+  - link "love" [ref=e23]
+  - link "inspirational" [ref=e24]
+  - link "life" [ref=e25]
+  - link "humor" [ref=e26]
+  - link "books" [ref=e27]
+  - link "reading" [ref=e28]
+  - link "friendship" [ref=e29]
+  - link "friends" [ref=e30]
+  - link "truth" [ref=e31]
+  - link "simile" [ref=e32]
+- contentinfo
+  - paragraph
+    - StaticText "Quotes by: "
+    - link "GoodReads.com" [ref=e65]
+  - paragraph
+    - StaticText "Made with ❤ by "
+    - link "Zyte" [ref=e66]

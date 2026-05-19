@@ -1,0 +1,26 @@
+--- call 0 (348c 1432ms) ---
+### Ran Playwright code
+```js
+await page.goto('https://quotes.toscrape.com/tag/love/');
+```
+### Page
+- Page URL: https://quotes.toscrape.com/tag/love/
+- Page Title: Quotes to Scrape
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-05-19T11-09-48-442Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-05-19T11-09-47-015Z.log#L1
+
+--- call 1 (313c 711ms) ---
+### Result
+- [Screenshot of full page](results\rerun-0519\playwright\t5.png)
+### Ran Playwright code
+```js
+// Screenshot full page and save it as results\rerun-0519\playwright\t5.png
+await page.screenshot({
+  fullPage: true,
+  path: 'results\\rerun-0519\\playwright\\t5.png',
+  scale: 'css',
+  type: 'png'
+});
+```

@@ -6,6 +6,8 @@
 
 ## Verdict (TL;DR)
 
+> **Independently re-confirmed 19 May 2026** — the three code-driven benchmarks were re-run (5 tasks, 3 runs each). Token counts reproduced identically, the agent-browser Task 3 click bug reproduced exactly, and the verdict is unchanged. Re-run data is in `results/rerun-0519/`.
+
 Four browser-control tools an AI agent could use were benchmarked on an identical 5-task suite.
 
 - **Most token-efficient:** Vercel agent-browser (roughly one third of the tokens used by the MCP servers).

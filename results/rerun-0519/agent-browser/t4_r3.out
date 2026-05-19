@@ -1,0 +1,68 @@
+✓ Quotes to Scrape
+  https://quotes.toscrape.com/js/
+✓ Done
+- heading "Quotes to Scrape" [level=1, ref=e1]
+  - link "Quotes to Scrape" [ref=e2]
+- paragraph
+  - link "Login" [ref=e3]
+- StaticText "“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”"
+- StaticText "by "
+- StaticText "Albert Einstein"
+- generic
+  - StaticText "Tags: change deep-thoughts thinking world"
+- StaticText "“It is our choices, Harry, that show what we truly are, far more than our abilities.”"
+- StaticText "by "
+- StaticText "J.K. Rowling"
+- generic
+  - StaticText "Tags: abilities choices"
+- StaticText "“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”"
+- StaticText "by "
+- StaticText "Albert Einstein"
+- generic
+  - StaticText "Tags: inspirational life live miracle miracles"
+- StaticText "“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”"
+- StaticText "by "
+- StaticText "Jane Austen"
+- generic
+  - StaticText "Tags: aliteracy books classic humor"
+- StaticText "“Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”"
+- StaticText "by "
+- StaticText "Marilyn Monroe"
+- generic
+  - StaticText "Tags: be-yourself inspirational"
+- StaticText "“Try not to become a man of success. Rather become a man of value.”"
+- StaticText "by "
+- StaticText "Albert Einstein"
+- generic
+  - StaticText "Tags: adulthood success value"
+- StaticText "“It is better to be hated for what you are than to be loved for what you are not.”"
+- StaticText "by "
+- StaticText "André Gide"
+- generic
+  - StaticText "Tags: life love"
+- StaticText "“I have not failed. I've just found 10,000 ways that won't work.”"
+- StaticText "by "
+- StaticText "Thomas A. Edison"
+- generic
+  - StaticText "Tags: edison failure inspirational paraphrased"
+- StaticText "“A woman is like a tea bag; you never know how strong it is until it's in hot water.”"
+- StaticText "by "
+- StaticText "Eleanor Roosevelt"
+- generic
+  - StaticText "Tags: misattributed-eleanor-roosevelt"
+- StaticText "“A day without sunshine is like, you know, night.”"
+- StaticText "by "
+- StaticText "Steve Martin"
+- generic
+  - StaticText "Tags: humor obvious simile"
+- navigation
+  - list
+    - listitem [level=1]
+      - link "Next " [ref=e6]
+- contentinfo
+  - paragraph
+    - StaticText "Quotes by: "
+    - link "GoodReads.com" [ref=e4]
+  - paragraph
+    - StaticText "Made with ❤ by "
+    - link "Zyte" [ref=e5]
